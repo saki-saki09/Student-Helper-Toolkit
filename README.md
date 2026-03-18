@@ -35,8 +35,11 @@ This project is part of my journey to learn Python, build real tools, and move t
 ## 🧑‍💻 Author
 
 SAKIBUL HOQUE SAKI
+
 GitHub: https://github.com/saki-saki09
+
 LinkedIn: https://www.linkedin.com/in/sakibul-hoque-saki-b9b020364/
+
 Facebook Group: https://www.facebook.com/groups/fs.code.helper
 
 ## 📦 How to Run
