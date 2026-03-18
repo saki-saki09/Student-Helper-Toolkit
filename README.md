@@ -42,6 +42,8 @@ LinkedIn: https://www.linkedin.com/in/sakibul-hoque-saki-b9b020364/
 
 Facebook Group: https://www.facebook.com/groups/fs.code.helper
 
+⭐ Star this repo if you found it useful!
+
 ## 📦 How to Run
 
 ```bash
